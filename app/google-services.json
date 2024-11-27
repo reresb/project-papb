@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "847983731280",
+    "project_id": "articleapp-f0c98",
+    "storage_bucket": "articleapp-f0c98.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:847983731280:android:bbed4795857c61d5496755",
+        "android_client_info": {
+          "package_name": "com.pam.articleapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYF45KnQn9vdE25Ty90ItEXG6hjTukU2E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
